@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="75d79ea3-ee50-4b1e-9c78-8c7e74f8f1c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/challenges/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenges/classes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenges/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenges/functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenges/objects-arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenges/objects-arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenges/prototypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenges/prototypes.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,10 +18,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challenges/classes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="336">
+              <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
               <folding>
                 <element signature="n#CuboidMarker#0" />
+                <element signature="n#!!block;n#constructor#0;n#CuboidMarker#0" />
+                <element signature="n#CubMaker#0" />
               </folding>
             </state>
           </provider>
@@ -86,6 +85,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaScript-II" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -135,27 +135,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560524516090</updated>
-      <workItem from="1560524518967" duration="7428000" />
+      <workItem from="1560524518967" duration="8454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7428000" />
+    <option name="totallyTimeSpent" value="8454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1354924" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1354924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -169,54 +168,44 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/challenges/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/challenges/objects-arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="154" column="90" selection-start-line="154" selection-start-column="90" selection-end-line="154" selection-end-column="90" />
           <folding>
-            <element signature="e#221#392#0" />
-            <element signature="n#!!block;n#Dinosaur#0" />
-            <element signature="e#495#533#0" />
-            <element signature="e#564#602#0" />
-            <element signature="e#496#603#0" />
-            <element signature="e#916#989#0" />
-            <element signature="e#1122#1199#0" />
-            <element signature="e#1365#1373#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenges/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!block;n#f#0" />
-            <element signature="n#!!block;n#f#0" />
-            <element signature="n#!!block;n#f#0" />
+            <element signature="e#216#387#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenges/prototypes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="39" />
+        <state relative-caret-position="984">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenges/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/challenges/classes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="336">
+          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
           <folding>
             <element signature="n#CuboidMarker#0" />
+            <element signature="n#!!block;n#constructor#0;n#CuboidMarker#0" />
+            <element signature="n#CubMaker#0" />
           </folding>
         </state>
       </provider>
